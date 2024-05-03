@@ -1,0 +1,88 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+.box_f{
+    width: 1400px;
+    height: 260px;
+    background-color: rgb(50, 46, 65);
+}
+.box_f{
+    display: flex;
+}
+.categorias{
+    display: flex;
+}
+.inpp1{
+    color: rgb(155, 155, 155);
+    background-color: rgb(255, 255, 255);
+    width: 350px;
+    height: 34px;
+    font-size: 16px;
+    font-weight: 400;
+    font-family: sans-serif;
+    border-radius: 6px;
+    border: none;
+    padding: 10px 292px 21px 15px;
+    margin-bottom: 10px;
+}
+.inpp2{
+    width: 350px;
+    height: 86px;
+    color: rgb(155, 155, 155);
+    font-family: sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    border-radius: 6px;
+    border: none;
+    padding: 15px 269px 58px 15px;
+    margin-bottom: 11px;
+}
+.btnn1{
+    width: 350px;
+    height: 25px;
+    color: rgb(255, 255, 255);
+    font-family: sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    background: rgb(84, 66, 148);
+    border-radius: 6px;
+    border: none;
+    padding: 6px 135px 5px 134px;
+}
+.inp_btn{
+    margin-left: 144px;
+    margin-top: 47px;
+}
+.categorias{
+    margin-top: 77px;
+    margin-left: 163px;
+}
+.text_c{
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+    font-size: 16px;
+    font-weight: 400;
+    font-family: sans-serif;
+}
+.categoria1{
+    margin-right: 68px;
+}
+.list{
+    margin-bottom: 10px;
+}
+.list2{
+    margin-bottom: 10px;
+}
+.text_c:hover{
+    color: rgb(213, 115, 0);
+}
+.icons{
+    margin-top: 120px;
+    margin-left: 163px;
+}
+.icon_p{
+    margin-right: 40px;
+}
+
